@@ -62,4 +62,4 @@ while True:
         time.sleep(1)  # Wait for 1 second to ensure the paste command is completed
 
         # Step 7: Press Enter
-        pyautogui.press('enter')
+        pyautogui.press('enter') 
